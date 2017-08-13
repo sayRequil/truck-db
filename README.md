@@ -7,4 +7,9 @@ Standard Text Readme
 ~~ Readme
 ~~~~~~~~~~~~~~~~~~
 Lavla is in development 0.01(yes it is still below 1.00)
+
+~~~~~~~~~~~~~~~~~~
+~~ truck-db
+~~~~~~~~~~~~~~~~~~
+Not for commercial use.
 ```
